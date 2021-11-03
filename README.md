@@ -1,16 +1,5 @@
-# rock_chat
+# <img src="/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="50"> Rock Chat 
 
-A new Flutter project.
+<img src="https://user-images.githubusercontent.com/52128564/140234699-fa83b981-72ee-4a36-89a2-670ee199bca2.png" height="500"> <img src="https://user-images.githubusercontent.com/52128564/140234705-8630e267-7ed6-45ff-b7da-2f757f933fcf.png" height="500"> <img src="https://user-images.githubusercontent.com/52128564/140234708-dcd1c24e-e5b5-4faf-8823-09a1b6371c2c.png" height="500">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/52128564/140234712-0f8da66d-8e6a-4d44-9ef2-d19acfd297f5.png" height="500"> <img src="https://user-images.githubusercontent.com/52128564/140234713-26ccf51f-2e98-4f4d-a0ab-12f70de35e5b.png" height="500"> <img src="https://user-images.githubusercontent.com/52128564/140234716-100587ea-abf4-455d-86fd-0e8647dfda83.png" height="500">
